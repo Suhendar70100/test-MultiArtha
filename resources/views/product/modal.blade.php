@@ -36,7 +36,7 @@
           
           <div class="col-12">
             <div class="form-floating form-floating-outline">
-              <input id="poster" name="poster" class="form-control credit-card-mask" type="file" />
+              <input id="poster" name="poster" class="form-control credit-card-mask" accept="image/*"  type="file" />
               <div class="invalid-feedback"></div>
             </div>
           </div>
